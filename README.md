@@ -1,4 +1,4 @@
-# API REST Java para operação CRUD.
+# API REST Java.
 
 Api backend desenvolvida em Java com padrão de designer MVC, utilizando métodos HTTP GET, PUT, DELETE e POST. 
 O objetivo foi criar um CRUD (Create, Read, Update e Delete) com as anotações do Spring gerando um arquivo JAR.
